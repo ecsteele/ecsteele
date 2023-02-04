@@ -1,16 +1,20 @@
-### Hi there 👋
+# Eric Steele
+## Work Stuff
+💾 Data Engineer
 
-<!--
-**ecsteele/ecsteele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐘 Hadooper
 
-Here are some ideas to get you started:
+🐍 Python enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Scripting fanatic
+
+## Non-work Stuff
+🎨 Creator of dumb photoshops
+
+🏎 Formula 1 fan
+
+🍺 Craft beer consumer
+
+🕹 Video game player
+
+🧵 Cross stitcher
